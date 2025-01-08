@@ -8,7 +8,6 @@ This program tracks user and Computer-Performed moves, offering hints to guide p
 
 [8-Puzzle explanatory demo](https://github.com/user-attachments/assets/0e952a81-246f-408b-9327-7deb3bca8227)
 
-*Note: Uploaded build may have sound issues.*
 
 ---
 
