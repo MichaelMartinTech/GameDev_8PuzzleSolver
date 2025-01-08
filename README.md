@@ -6,6 +6,10 @@
 Solver for the classic 8 Puzzle problem, utilizing **Breadth-First Search (BFS)** and the **Manhattan Distance heuristic**. 
 This program tracks user and Computer-Performed moves, offering hints to guide players towards solving the puzzle.
 
+[8-Puzzle explanatory demo](https://github.com/user-attachments/assets/0e952a81-246f-408b-9327-7deb3bca8227)
+
+*Note: Uploaded build may have sound issues.*
+
 ---
 
 ## About the 8 Puzzle
@@ -73,7 +77,7 @@ The objective is to rearrange the tiles to match a specified goal state by slidi
 
 - **Language**: C#  
 - **Engine**: Unity
-
+  
 ---
 
 ## License
